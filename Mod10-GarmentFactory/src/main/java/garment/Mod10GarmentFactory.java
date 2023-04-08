@@ -22,7 +22,7 @@ public class Mod10GarmentFactory {
         shoes.print();
     }
 
-    public static void main(String[] args) {
+    public void run() {
         // Create garments for the professional variant
         GarmentFactory factory1 = new ProfessionalGarmentFactory();
         client(factory1);
