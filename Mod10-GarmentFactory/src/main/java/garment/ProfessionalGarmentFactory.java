@@ -5,7 +5,7 @@
 package garment;
 
 /**
- *
+ * Defines Professional Garment
  * @author cyril
  */
 public class ProfessionalGarmentFactory implements GarmentFactory {

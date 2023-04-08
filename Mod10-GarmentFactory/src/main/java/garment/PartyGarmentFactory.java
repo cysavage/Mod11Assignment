@@ -5,7 +5,7 @@
 package garment;
 
 /**
- *
+ *Defines Party Garment
  * @author cyril
  */
 public class PartyGarmentFactory implements GarmentFactory {

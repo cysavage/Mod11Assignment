@@ -5,7 +5,7 @@
 package garment;
 
 /**
- *
+ * Main Interface for Garment Factory
  * @author cyril
  */
 public interface GarmentFactory {

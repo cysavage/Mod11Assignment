@@ -5,7 +5,7 @@
 package garment;
 import garment.*;
 /**
- *
+ *Driver Class
  * @author cyril
  */
 public class Mod10GarmentFactoryDriver {

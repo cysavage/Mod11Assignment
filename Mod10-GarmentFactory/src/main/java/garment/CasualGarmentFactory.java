@@ -5,7 +5,7 @@
 package garment;
 
 /**
- *
+ * Defines Casual Garment class implements Garment Factory
  * @author cyril
  */
 public class CasualGarmentFactory implements GarmentFactory {

@@ -7,7 +7,8 @@ package garment;
 import garment.*;
 
 /**
- *
+ *Utilized Abstract Design Factory Pattern
+ * Superclass with multiple sub classes 
  * @author cyril
  */
 public class Mod10GarmentFactory {
